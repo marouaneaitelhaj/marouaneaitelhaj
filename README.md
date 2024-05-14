@@ -5,6 +5,6 @@
 
 "But it takes a great developer like me to tell them, 'The code is messy, it's inefficient, don't fall for the trap.'"
 
-![image](https://github.com/marouaneaitelhaj/marouaneaitelhaj/assets/112936725/fb70d9c7-ce8e-45cd-8bd6-30d129bea20f)
-![image](https://github.com/marouaneaitelhaj/marouaneaitelhaj/assets/112936725/35453595-5ec7-4ce1-95d8-63b403f982bf)
+![gif](https://github.com/marouaneaitelhaj/marouaneaitelhaj/assets/112936725/28a60bf8-2a63-465a-9296-035a174827db)
+
 

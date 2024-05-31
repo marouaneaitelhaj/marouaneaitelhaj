@@ -4,3 +4,8 @@
 "Developing changed. They made new frameworks, they made IDEs. It's called: too easy. It's called: you tell a computer what to code. That's why you see everybody is a developer now.
 
 "But it takes a great developer like me to tell them, 'The code is messy, it's inefficient, don't fall for the trap.'"
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username)](https://git.io/streak-stats)

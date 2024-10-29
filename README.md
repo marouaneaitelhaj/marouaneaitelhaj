@@ -8,4 +8,4 @@
 [https://youtu.be/bD_CbuFFfwE?si=uwzyUByBvXQxXcA1](https://youtu.be/bD_CbuFFfwE?t=161)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marouaneaitelhaj)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marouaneaitelhaj)](https://git.io/streak-stats)
